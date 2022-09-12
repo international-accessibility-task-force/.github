@@ -1,12 +1,3 @@
-<p align="center">
-    <img src="https://github.com/international-accessibility-task-force/webpage/blob/master/assets/images/logo-center-rules-black-and-white.png"
-        height="138">
-</p>
-<p align="center">
-        <img src="https://img.shields.io/discord/1014599739230130267?logo=discord"
-            alt="chat on Discord"></a>
-</p>
-
 <h1>International Accessibility Task Force </h1>
 
 <section>
@@ -49,8 +40,8 @@ The Admin Team ❤️.
 </section>
 
 <section>
-<p>
-You can send accessibility requests for this webpage to
-<a href="mailto:admin@internationalaccessibilitytaskforce.com">admin@internationalaccessibilitytaskforce.com</a>
+<p align="center">
+        <img src="https://img.shields.io/discord/1014599739230130267?logo=discord"
+            alt="chat on Discord"></a>
 </p>
 </section>
